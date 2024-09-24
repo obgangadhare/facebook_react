@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif
+}
+.card{
+    height: 770px;
+    width: 500px;
+border: 0.05 px solid rgba(0, 0, 0, 0.252);
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.223);
+    border-radius: 8px;
+    
+}
+.imgsizepr{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nameofprof{
+   position: relative;
+   top: -45px;
+   left: 70px;
+   font-size: 16px;
+  
+
+}
+.nameofproftime{
+    position: relative;
+    top: -38px;
+    left: 70px;
+    font-size: 10px;
+   
+ 
+ }
+ .threedots{
+    position: relative;
+    top: -108px;
+    left: 420px;
+    font-size: 28px;
+ }
+ .closedbar{
+    position: relative;
+    top: -135px;
+    left: 468px;
+    font-size: 28px;
+ }
+ .captionofprof{
+    font-size: 15px;
+    margin-left: 10px;
+    position: relative;
+    top:-25px;
+ }
+.imgsize{
+    height: 550px;
+    width: 500px;
+    position: relative;
+    top: -50px;
+}
+.btnofprof{
+    border: none;
+    height: 20px;
+    width: 80px;
+}
+.commentonprof{
+    position: relative;
+    top: -18px;
+    left: 200px;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+}
+.commentonprof:hover{ background-color: rgba(98, 91, 91, 0.097);}
+.shareonprof:hover{ background-color: rgba(98, 91, 91, 0.097);}
+.shareonprof{  position: relative;
+    top: -18px;
+    left: 300px;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+}
+
+.lineunderlike{
+    position: relative;
+    top: -8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

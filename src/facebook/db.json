@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nameofprofile": "Mythical World 2.0  ",
+        "time":"4 September at 12.36",
+        "caption":"Animal world 🌎 😍 Discovery channel",
+        "imgpr":"https://marketplace.canva.com/EAF21qlw744/1/0/1600w/canva-blue-modern-facebook-profile-picture-mtu4sNVuKIU.jpg",
+        "img": "https://scontent.fpnq2-1.fna.fbcdn.net/v/t39.30808-6/458754716_1060948472069693_5790880470589457160_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uzPcZzoQI2MQ7kNvgFW1wiE&_nc_ht=scontent.fpnq2-1.fna&_nc_gid=AFgAfcWfCZb0UHt6f15hnOS&oh=00_AYCajumZK6xpys3iqeOXbDlUHzs6iY4XH5qthtwJ22AznA&oe=66F77410"
+    },
+    {
+        "id": 2,
+        "nameofprofile": "Health & Personal Care",
+        "caption":"Filters are great, but great skin is better.",
+        "time":"3 days ago",
+        "imgpr":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9tu0c_cjxMIIll3_E23_TRiAGPLXAW5WJFg&s",
+        "img": "https://images.pexels.com/photos/27694097/pexels-photo-27694097/free-photo-of-a-yellow-bag-with-various-skin-care-products.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 3,
+        "nameofprofile": "Newspathik ",
+        "caption":"A rare picture of Calcutta from 1920",
+        "time":"1 days ago",
+        "imgpr":"https://marketplace.canva.com/EAF21qlw744/1/0/1600w/canva-blue-modern-facebook-profile-picture-mtu4sNVuKIU.jpg",
+        "img": "https://scontent.fpnq7-4.fna.fbcdn.net/v/t39.30808-6/460338846_542912268095121_6681735817884024677_n.jpg?stp=dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NkMB1CZ9hB8Q7kNvgHjD7zI&_nc_ht=scontent.fpnq7-4.fna&_nc_gid=ALF12rGwtNDONgte-Jf3m7g&oh=00_AYBg3QFm-FHClc4v7Yft-WtLtmEUkzTmlk-XJth_c9hpjg&oe=66F7FE7D"
+    },
+    {
+        "id": 4,
+        "nameofprofile": "J.M.Electronics",
+        "caption":"Stay Connected, Stay Ahead.",
+        "time":"5 days ago",
+        "imgpr":"https://e0.pxfuel.com/wallpapers/274/347/desktop-wallpaper-facebook-profile-nice-profile-for-facebook.jpg",
+        "img":"https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 5,
+        "nameofprofile": "Kay Beauty Picks",
+        "caption":"A good face is a window to the soul.",
+        "time":"5 August 2024",
+        "imgpr":"https://marketplace.canva.com/EAF0AQ2C5hc/1/0/1600w/canva-black-ang-gold-luxury-business-facebook-profile-picture-5MVEQt0eQ1A.jpg",
+        "img":"https://images.pexels.com/photos/5065853/pexels-photo-5065853.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 6,
+        "nameofprofile": "Pet Care",
+        "caption":"Animal world ",
+        "time":"10 April 2024",
+        "imgpr":"https://cdn.wallpapersafari.com/1/89/czmJNu.jpg",
+        "img":"https://images.pexels.com/photos/4587993/pexels-photo-4587993.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 7,
+        "nameofprofile": "CN Toys",
+        "caption":"Children world",
+        "time":"3 days ago",
+        "imgpr":"https://cdn.wallpapersafari.com/1/89/czmJNu.jpg",
+        "img":"https://images.pexels.com/photos/298825/pexels-photo-298825.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 8,
+        "nameofprofile": "Discover Fashion Trends",
+        "caption":"Fashion World",
+        "time":"3 days ago",
+        "imgpr":"https://marketplace.canva.com/EAFxwV1WnyE/1/0/1600w/canva-black-and-gold-elegant-facebook-profile-picture-pRHweav1H0c.jpg",
+        "img":"https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+]

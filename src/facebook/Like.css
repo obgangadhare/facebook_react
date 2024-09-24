@@ -1,0 +1,25 @@
+.licount{
+    font-size: 18px;
+    margin-left: 10px;
+    position: relative;
+    top: -40px;
+}
+.countnum{
+    font-size: 16px;
+    margin-left: 30px;
+    position: relative;
+    top: -20px;
+}
+.libtn{
+    font-size: 15px;
+    margin-left: 30px;
+    position: relative;
+    top: -38px; 
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+}
+.libtn:hover{
+    background-color: rgba(98, 91, 91, 0.097);
+}
